@@ -6,7 +6,7 @@ The intent of this repository is to allow users to test and experiment with trai
 ----
 
 ## 5_Group_Classification.ipynb
-This Jupyter notebook has a link at the top to run it in Google Colab. If it is run there no installation of python is required.
+This Jupyter notebook has a link at the top to run it in Google Colab. If it is run in Colab, no installation of python is required.
 
 ## Exploration_of_CNN_Phytoplankton_Classification_Model.pdf
 This report contains a description of the motivation, methods, results, and some discussion and reflection on the use of CNNs for plankton imagery classification.
