@@ -1,5 +1,5 @@
 # plankton-CNN-DEMO :ocean::microscope::microbe:
-This repo provides a framework machine learning (ML) model that can be trained to classify images of phytolankton into different groups. The demo uses 5,000 images of phytoplankton, with 1,000 each of five different groups. It includes a self-contained Jupyter notebook that can be run in Google Colab, a descriptive report of the project, a document containing relevant resources, and a zipped folder of data needed to run the demo.
+This repo provides a framework for a machine learning (ML) model that can be trained to classify images of phytolankton into different groups. The demo uses 5,000 images of phytoplankton, with 1,000 each of five different groups. It includes a self-contained Jupyter notebook that can be run in Google Colab, a descriptive report of the project, a document containing relevant resources, and a zipped folder of data needed to run the demo.
 
 The intent of this repository is to allow users to test and experiment with training a Convolutional Neural Network (CNN), which is a specific type of deep neural network especially useful for image identification. The demo can be run by anyone, whether or not the user has any experience with python or deep learning. We hope you find it useful!! 
 
