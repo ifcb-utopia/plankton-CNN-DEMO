@@ -19,5 +19,5 @@ This document contains links to a variety of resources on topics relevant to thi
 Authors: Hisham Bhatti & Ali Chase, University of Washington, 2023
 
 ## five_groups_data.zip
-This is zipped folder containing five subfolders of plankton images. Each of the five folders contains 1,000 of a given groups of phytoplankton. The five groups are: Chaetoceros (a type of diatom), Cryptophytes, Dinoflagellates, Euglenoids, and Oxytoxum (a type of dinoflagellate).
+This is a zipped folder containing five subfolders of plankton images. Each of the five folders contains 1,000 images of a given group of phytoplankton. The five groups are: Chaetoceros (a type of diatom), Cryptophytes, Dinoflagellates, Euglenoids, and Oxytoxum (a type of dinoflagellate).
 Size unzipped: 28.1 MB
